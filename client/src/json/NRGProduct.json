@@ -1,0 +1,496 @@
+[
+  {
+    "id": "1",
+    "category": "NRG x UFC GYM",
+    "type": "hoodie",
+    "name": "NRG x UFC GYM Varsity Hoodie",
+    "price": 30.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/varsity-itemcard2_2048x2048.png?v=1668281488",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/will-white-tee_540x_f2a57e41-278c-4942-80fe-eaeee10a5a9f_2048x2048.png?v=1668281545"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL"],
+    "description": ["NRG and UFC Gyms have come together and created the ultimate gaming and mixed martial arts apparel collection comfortable enough for you to Train Different on the server or the Octagon!",
+    "Charcoal long sleeve pullover hoodie with Energy Property Of graphics printed on front."
+    ],
+    "details": ["80% cotton / 20% polyester hooded sweatshirt",
+    "Vintage varsity-style logo in this throwback look",
+    "Relaxed fit silhouette that is roomy throughout",
+    "Charcoal color"
+    ],
+    "note": "Each order of NRG x UFC gear includes 1 free month of membership to UFC Gym."
+  },
+  {
+    "id": "2",
+    "category": "NRG x UFC GYM",
+    "type": "hoodie",
+    "name": "NRG x UFC GYM Property Of Hoodie",
+    "price": 60.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/property-itemcard_2048x2048.png?v=1668281739",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/property-itemcard2_2048x2048.png?v=1668281742"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL"],
+    "description": ["NRG and UFC Gyms have come together and created the ultimate gaming and mixed martial arts apparel collection comfortable enough for you to Train Different on the server or the Octagon!",
+    "Navy long sleeve pullover hoodie with Property Of graphics printed on front."
+    ],
+    "details": ["80% cotton / 20% polyester",
+    "Soft fleece that’s warm but not too heavy",
+    "Pullover hooded sweatshirt",
+    "Classic “Property Of” logo",
+    "Relaxed fit silhouette that is roomy throughout",
+    "Navy color"
+    ],
+    "note": "Each order of NRG x UFC gear includes 1 free month of membership to UFC Gym."
+  },
+  {
+    "id": "3",
+    "category": "NRG x UFC GYM",
+    "type": "shorts",
+    "name": "NRG x UFC GYM Property Of Shorts",
+    "price": 50.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/shorts-itemcard3_2048x2048.png?v=1668471535",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/shorts_2048x2048.jpg?v=1668471535",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/shorts-itemcard4_2048x2048.png?v=1668471535",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/shorts-itemcard2_2048x2048.png?v=1668471535"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL"],
+    "description": ["NRG and UFC Gyms have come together and created the ultimate gaming and mixed martial arts apparel collection comfortable enough for you to Train Different on the server or the Octagon!",
+    "Charcoal shorts with NRG x UFC Gym graphics printed on front."
+    ],
+    "details": ["The 100% cotton fabric is the perfect comfort blend to wear all day",
+    "Classic “Property Of” logo",
+    "Classic silhouette fit",
+    "Write your name in the designated space on the short for a customized product",
+    "Charcoal color"
+    ],
+    "note": "Each order of NRG x UFC gear includes 1 free month of membership to UFC Gym."
+  },
+  {
+    "id": "4",
+    "category": "NRG x UFC GYM",
+    "type": "t-shirt",
+    "name": "NRG x UFC GYM Black Tee",
+    "price": 30.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/train-differnt-itemcard2_2048x2048.png?v=1668281351",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/train-differnt-itemcard_2048x2048.png?v=1668281355"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL"],
+    "description": ["NRG and UFC Gyms have come together and created the ultimate gaming and mixed martial arts apparel collection comfortable enough for you to Train Different on the server or the Octagon!",
+    "Black t-shirt with NRG x UFC Gym graphics printed on front."
+    ],
+    "details": ["100% cotton crewneck short sleeve t-shirt",
+    "Write your name in the designated space on the t-shirt for a customized product",
+    "Classic silhouette t-shirt fit",
+    "Black color"
+    ],
+    "note": "Each order of NRG x UFC gear includes 1 free month of membership to UFC Gym."
+  },
+  {
+    "id": "5",
+    "category": "NRG Fundamentals",
+    "type": "hoodie",
+    "name": "NRG Fundamentals Pullover Hoodie",
+    "price": 70.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/NRG_Storecads_Store_Refresh_Hoodie_RED_2048x2048.png?v=1665704986",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/etthos-red-hoodie_2048x2048.jpg?v=1665771210",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/red-hoodie-detail_2048x2048.jpg?v=1665771215"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL", "3XL"],
+    "description": ["Red long sleeve pullover hoodie with the NRG logo embroidered on front."],
+    "details": ["Embroidered NRG logo",
+    "Regular fit",
+    "Pullover hood, inset sleeves, kangaroo pocket",
+    "Heavy weight, 10.3 oz/yd2",
+    "80% cotton 20% recycled polyester anti-pill fleece",
+    "Lined hood, tonal shoestring drawcord, sleeve cuff ribbing, preshrunk to minimize shrinkage",
+    "Red color"
+    ]
+  },
+  {
+    "id": "6",
+    "category": "NRG Fundamentals",
+    "type": "t-shirt",
+    "name": "NRG Fundamentals Black Tee",
+    "price": 30.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/NRG_Storecads_Store_Refresh_Tee_Black_2048x2048.png?v=1665704083",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/benjy-full_2048x2048.jpg?v=1665770615"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL", "3XL"],
+    "description": ["Red long sleeve pullover hoodie with the NRG logo embroidered on front."],
+    "details": ["Embroidered NRG logo",
+    "Relaxed fit",
+    "Crew neck",
+    "Heavy weight, 6.5 oz/yd2, 22-singles",
+    "100% combed cotton (heathers 15% viscose)",
+    "Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage",
+    "Black color"
+    ]
+  },
+  {
+    "id": "7",
+    "category": "NRG Fundamentals",
+    "type": "t-shirt",
+    "name": "NRG Fundamentals White Tee",
+    "price": 30.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/NRG_Storecads_Store_Refresh_Tee_White_1fb6e5a6-6761-4c82-bb69-0a9e6577fb43_2048x2048.png?v=1665770661",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/will-white-tee_7a7cb8fa-cede-49b1-92b9-76dc8840f22e_small.jpg?v=1665770661"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL", "3XL"],
+    "description": ["Red long sleeve pullover hoodie with the NRG logo embroidered on front."],
+    "details": ["Embroidered NRG logo",
+    "Relaxed fit",
+    "Crew neck",
+    "Heavy weight, 6.5 oz/yd2, 22-singles",
+    "100% combed cotton (heathers 15% viscose",
+    "Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage",
+    "White color"
+    ]
+  },
+  {
+    "id": "8",
+    "category": "NRG Fundamentals",
+    "type": "crewneck",
+    "name": "NRG Fundamentals Crewneck Sweater",
+    "price": 70.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/NRG_Storecads_Store_Refresh_Crewneck_Cream_2048x2048.png?v=1665704676",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/benjy-cream_2048x2048.jpg?v=1665771279"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL", "3XL"],
+    "description": ["Cream sweater with the NRG logo embroidered on front."],
+    "details": ["Embroidered NRG logo",
+    "13.5oz./yd² (US) 22.5 oz./L yd (CA), 70/30 cotton/polyester, 100% cotton face yarns on solid colors",
+    "3-End fleece, ring spun cotton",
+    "20 singles face yarn for a durable and textured fabric face",
+    "Double ribbing side panels for stretch",
+    "Reverse coverstitch sewing on all seams for durability and a premium finish",
+    "Body panels sewn cross grain to limit shrinkage & shortening after wash",
+    "520gm 100% cotton 1x1 ribbing at cuff and waistband",
+    "Cream color"
+    ]
+  },
+  {
+    "id": "9",
+    "category": "NRG Fundamentals",
+    "type": "shorts",
+    "name": "NRG Fundamentals Sweat Shorts",
+    "price": 50.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/NRG_Storecads_Store_Refresh_Shorts_Black_2048x2048.png?v=1665787678",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/shorts-close-up_2048x2048.jpg?v=1665787678",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/benjy-full_21e138cb-fe50-43d8-8e25-1331ca4c908c_2048x2048.jpg?v=1665787678"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL"],
+    "description": ["Black shorts with the NRG logo embroidered on front."],
+    "details": ["Embroidered NRG logo",
+    "8.5 oz./yd² (US) 14.2 oz./L yd (CA), 80/20 ring-spun cotton/polyester blend fleece with 100% cotton face, 32 singles",
+    "Grey Heather: 52/48 cotton/polyester",
+    "Elastic waistband with shoestring drawcord",
+    "Sewn eyelets",
+    "Sewn fly detail",
+    "Back pocket & Jersey lined hand pockets",
+    "Relaxed fit with tapered knee opening",
+    "Black color"
+    ]
+  },
+  {
+    "id": "10",
+    "category": "Jerseys",
+    "type": "jersey",
+    "name": "NRG Musty Madness Jersey",
+    "price": 60.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/mm-itemcard1_2048x2048.jpg?v=1668710900",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/shorts-close-up_2048x2048.jpg?v=1665787678"
+    ],
+    "sizes": ["XS", "SM", "MD", "LG", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": ["2022 Musty Madness Jersey. This jersey can be customized with your own gamertag."],
+    "details": ["100% Polyester",
+    "Fully Sublimated, Design will never crack or peel",
+    "Grey Heather: 52/48 cotton/polyester",
+    "Antimicrobial",
+    "Moisture Wicking"
+    ],
+    "note": "All custom apparel sales are final. No refunds, returns or exchanges will be accepted for this item. Please review all details of your order before finalizing your purchase. Custom jerseys are made to order. Please allow 7-14 days for production and 3-4 days for shipping."
+  },
+  {
+    "id": "11",
+    "category": "Jerseys",
+    "type": "jersey",
+    "name": "Retro NRG Fire Pro Jersey",
+    "price": 60.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/fire-front_small.png?v=1668810996",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/fire-back_small.png?v=1668810999"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL", "3XL", "4XL"], 
+    "description": ["Re-introducing the Retro 2017 NRG Fire Pro Jersey! Receive a piece of Esports history and rep a NRG Fire Pro Jersey. This jersey can be customized with your own gamertag."],
+    "details": ["100% Polyester",
+    "Fully Sublimated, Design will never crack or peel",
+    "Antimicrobial",
+    "Moisture Wicking"
+    ],
+    "note": "All custom apparel sales are final. No refunds, returns or exchanges will be accepted for this item. Please review all details of your order before finalizing your purchase. Custom jerseys are made to order. Please allow 7-14 days for production and 3-4 days for shipping."
+  },
+  {
+    "id": "12",
+    "category": "Jerseys",
+    "type": "jersey",
+    "name": "Retro NRG Clutch Pro Jersey",
+    "price": 60.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/clutchfront_2048x2048.png?v=1668810899",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/clutchback_2048x2048.png?v=1668810901"
+    ],
+    "sizes": ["XS", "SM", "MD", "LG", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": ["Re-introducing the legendary 2019 NRG Clutch Pro Jersey for our Legacy CS:GO Team! Receive a piece of Esports history and rep a NRG Clutch Pro Jersey. This jersey can be customized with your own gamertag."],
+    "details": ["100% Polyester",
+    "Fully Sublimated, Design will never crack or peel",
+    "Antimicrobial",
+    "Elastic waistband with shoestring drawcord",
+    "Moisture Wicking"
+    ],
+    "note": "All custom apparel sales are final. No refunds, returns or exchanges will be accepted for this item. Please review all details of your order before finalizing your purchase. Custom jerseys are made to order. Please allow 7-14 days for production and 3-4 days for shipping."
+  },
+  {
+    "id": "13",
+    "category": "Jerseys",
+    "type": "jersey",
+    "name": "NRG Pro Jersey",
+    "price": 60.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Black-nrg_front-1_2048x2048.png?v=1653608127",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Black-nrg_Back-1_small.png?v=1653608127"
+    ],
+    "sizes": ["XS", "SM", "MD", "LG", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": ["2022 NRG Pro Jersey. This jersey can be customized with your own gamertag."],
+    "details": ["100% Polyester",
+    "Fully Sublimated, Design will never crack or peel",
+    "Antimicrobial",
+    "Moisture Wicking"
+    ],
+    "note": "All custom apparel sales are final. No refunds, returns or exchanges will be accepted for this item. Please review all details of your order before finalizing your purchase. Custom jerseys are made to order. Please allow 7-14 days for production and 3-4 days for shipping."
+  },
+  {
+    "id": "14",
+    "category": "Jerseys",
+    "type": "jersey",
+    "name": "NRG GAM Jersey",
+    "price": 60.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Storecad_NRG_GAM_Jersey_World_2022_01_2048x2048.png?v=1664920672",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/levi_2048x2048.png?v=1664989571",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Storecad_NRG_GAM_Jersey_World_2022_02_2048x2048.png?v=1664989571"
+    ],
+    "sizes": ["XS", "SM", "MD", "LG", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": ["2022 NRG GAM League of Legends World Championship Jersey. This jersey can be customized with your own gamertag."],
+    "details": ["100% Polyester",
+    "Fully Sublimated, Design will never crack or peel",
+    "Antimicrobial",
+    "Moisture Wicking"
+    ],
+    "note": "All custom apparel sales are final. No refunds, returns or exchanges will be accepted for this item. Please review all details of your order before finalizing your purchase. Custom jerseys are made to order. Please allow 7-14 days for production and 3-4 days for shipping." 
+  },
+  {
+    "id": "15",
+    "category": "NRG Essentials",
+    "type": "long sleeve",
+    "name": "NRG Black Long Sleeve",
+    "price": 35.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Meta_Ecom_NRG_10_2048x2048.jpg?v=1639598284",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/energy-blk_2048x2048.jpg?v=1639598281"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL", "3XL"],
+    "description": ["Black long sleeve t-shirt with the NRG logo printed on front."],
+    "note": "Please allow up to 3 weeks before shipping. Expedited shipping does not accelerate the production process. Delays may occur during limited releases." 
+  },
+  {
+    "id": "16",
+    "category": "NRG Essentials",
+    "type": "t-shirt",
+    "name": "NRG Flow Black Tee",
+    "price": 30.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Meta_Ecom_NRG_08_2048x2048ss-front-back_2048x2048.png?v=1618426711",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Meta_Ecom_NRG_05_2048x2048.png?v=1618426711",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Meta_Ecom_NRG_04_2048x2048.png?v=1618426711"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL", "3XL"],
+    "description": ["Black t-shirt with the NRG logo printed on front and NRG graphics printed on back."],
+    "note": "Please allow up to 3 weeks before shipping. Expedited shipping does not accelerate the production process. Delays may occur during limited releases." 
+  },
+  {
+    "id": "17",
+    "category": "NRG Essentials",
+    "type": "t-shirt",
+    "name": "NRG Flow White Tee",
+    "price": 30.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Meta_Ecom_NRG_08_2048x2048ss-front-back-wht_small.png?v=1618426728",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Meta_Ecom_NRG_03_2048x2048.png?v=1618508530",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Meta_Ecom_NRG_02_2048x2048.png?v=1618508530"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL", "3XL"],
+    "description": ["White t-shirt with the NRG logo printed on front and NRG graphics printed on back."],
+    "note": "Please allow up to 3 weeks before shipping. Expedited shipping does not accelerate the production process. Delays may occur during limited releases." 
+  },
+  {
+    "id": "18",
+    "category": "NRG Essentials",
+    "type": "t-shirt",
+    "name": "NRG Floral White Tee",
+    "price": 30.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/NRG_Storecads_Floral_Tee_White_02_2048x2048.png?v=1612484033",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/NRG_Storecads_Floral_Tee_White_01_2048x2048.png?v=1612484036"
+    ],
+    "sizes": ["SM", "MD", "LG", "XL", "2XL", "3XL"],
+    "description": ["White t-shirt with NRG floral graphics printed on front and back."],
+    "note": "Please allow up to 3 weeks before shipping. Expedited shipping does not accelerate the production process. Delays may occur during limited releases." 
+  },
+  {
+    "id": "19",
+    "category": "NRG Essentials",
+    "type": "hoodie",
+    "name": "NRG Black Nuke Hoodie",
+    "price": 60.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Meta_Ecom_NRG_13_2048x2048.jpg?v=1639598251"],
+    "sizes": ["XS", "SM", "MD", "LG", "XL", "2XL", "3XL"],
+    "description": ["Black long sleeve pullover hoodie with the NRG logo printed on front and on the sleeve."]
+  },
+  {
+    "id": "20",
+    "category": "NRG Essentials",
+    "type": "hoodie",
+    "name": "NRG White Nuke Hoodie",
+    "price": 60.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Meta_Ecom_NRG_14_2048x2048.png?v=1630083855"],
+    "sizes": ["XS", "SM", "MD", "LG", "XL", "2XL", "3XL"],
+    "description": ["White long sleeve pullover hoodie with the NRG logo printed on front and on the sleeve."]
+  },
+  {
+    "id": "21",
+    "category": "NRG Essentials",
+    "type": "hoodie",
+    "name": "NRG Blackout Nuke Hoodie",
+    "price": 60.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/flat-transparent_2048x2048.png?v=1654292166",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/store2_2048x2048.jpg?v=1654292179",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/store3_2048x2048.jpg?v=1654292185"
+    ],
+    "sizes": ["XS", "SM", "MD", "LG", "XL", "2XL", "3XL"],
+    "description": ["Black long sleeve pullover hoodie with the NRG logo printed on front and on the sleeve."]
+  },
+  {
+    "id": "22",
+    "category": "NRG Essentials",
+    "type": "hoodie",
+    "name": "NRG Tie Dye Hoodie",
+    "price": 60.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/ScreenShot2021-12-08at10.14.07AM_918fc504-7b25-4fac-8506-24b1f9cd5c8f_2048x2048.png?v=1639532264",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/534A6803_97ea710c-7baf-4e2f-a0d3-d8050bf39eea_2048x2048.gif?v=1638988656"
+    ],
+    "sizes": ["XS", "SM", "MD", "LG", "XL", "2XL", "3XL"],
+    "description": ["Long sleeve pullover hoodie with the NRG morph logo printed on front."],
+    "note": "Hoodie is made to order. Please allow 7-14 business days for production and 3-4 days for shipping."
+  },
+  {
+    "id": "23",
+    "category": "Accessories",
+    "type": "accessory",
+    "name": "NRG Beanie",
+    "price": 25.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Image-from-iOS-_45_2048x2048.gif?v=1638992073",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Image-from-iOS-_47_2048x2048.gif?v=1638992073",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/534A6811_2048x2048.png?v=1638992073"
+    ],
+    "description": ["Black beanie with the NRG logo embroidered in white."],
+    "details": ["Embroidered NRG logo",
+    "100% Acrylic"
+    ],
+    "note": "Beanie is made to order. Please allow 7-14 business days for production and 3-4 days for shipping."
+  },
+  {
+    "id": "24",
+    "category": "Accessories",
+    "type": "accessory",
+    "name": "NRG Keycaps",
+    "price": 59.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/keycaps_website_2048x2048.png?v=1639533059",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/DSC06319_2048x2048.jpg?v=1639533094",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/DSC06337_2048x2048.jpg?v=1639533002",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/DSC06314_2048x2048.jpg?v=1639532997",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/DSC06361_2048x2048.jpg?v=1639532997", 
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/DSC06335_2048x2048.jpg?v=1639098432",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/NRG_TEMPLATE_3-ol-cs5_1_2048x2048.jpg?v=1639533002"
+    ],
+    "description": ["Limited edition custom designed NRG keycap set. Choose from a variety of custom NRG-logo keycaps to create a signature look to upgrade your existing keyboard."],
+    "details": ["Designed for 60%, tenkeyless, full-size 104 keyboards, and everything in between",
+    "Compatible with Cherry MX Switches and any other switches of the same design",
+    "Set includes 7 special keys to accommodate variants of keyboard layout including 7U long spacebar key x 1, 1.5U keys x 4 and 1U keys x 2",
+    "Premium PBT plastic and all side dye-sublimation legends for great feel, great sound, and lasting quality", 
+    "Popular cherry profile for a stellar look",
+    "Artwork designed by Jay Gist"
+    ]
+  },
+  {
+    "id": "25",
+    "category": "Accessories",
+    "type": "accessory",
+    "name": "NRG Mousepad 18 x 16",
+    "price": 10.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Image-from-iOS-_42_c0e32346-9060-42bd-b470-fa4dbda3a37c_2048x2048.gif?v=1638994514",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/square2_2048x2048.png?v=1639102260"
+    ],
+    "description": ["Black mousepad with the NRG logo."],
+    "details": ["Dimensions: 18 x 16",
+    "Thickness: 3mm", 
+    "Fabric: DuraGlyde"
+    ]
+  },
+  {
+    "id": "26",
+    "category": "Accessories",
+    "type": "accessory",
+    "name": "NRG Mousepad 35 x 16",
+    "price": 18.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Image-from-iOS-_43_2048x2048.png?v=1638986737",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/large1_2048x2048.png?v=1639101106"
+    ],
+    "description": ["Black mousepad with the NRG logo."],
+    "details": ["Dimensions: 35 x 16",
+    "Thickness: 3mm", 
+    "Fabric: DuraGlyde"
+    ]
+  },
+  {
+    "id": "27",
+    "category": "Accessories",
+    "type": "accessory",
+    "name": "NRG Dad Hat",
+    "price": 30.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/dad-hat-mockup_1_2048x2048.jpg?v=1639598319"],
+    "description": ["Black hat with the NRG logo embroidered in white."],
+    "details": ["Embroidered NRG Logo",
+    "Custom Knit Body"
+    ]
+  },
+  {
+    "id": "28",
+    "category": "Accessories",
+    "type": "accessory",
+    "name": "NRG Flag",
+    "price": 30.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/Revised_NRG_2021_Flag_Storecad_2048x2048.png?v=1628296851"],
+    "description": ["Black flag with the NRG logo."],
+    "details": ["Dimensions: 59 x 35",
+    "100% Polyester"
+    ], 
+    "note": "This is a custom, made to order item. All custom apparel sales are final. No refunds, returns or exchanges will be accepted for this item. Please review all details of your order before finalizing your purchase. Please allow up to 21 business days for Production and 3-4 days for shipping."
+  },
+  {
+    "id": "29",
+    "category": "Accessories",
+    "type": "accessory",
+    "name": "NRG Skull Skateboard",
+    "price": 50.00,
+    "images": ["https://cdn.shopify.com/s/files/1/0520/4787/2152/products/new-skateboard_2048x2048.png?v=1623189369",
+    "https://cdn.shopify.com/s/files/1/0520/4787/2152/products/new-skateboard2_2048x2048.png?v=1623189369"
+    ],
+    "description": ["Skate board with NRG logo and skull design."],
+    "details": ["Size: 31.75 H x 8.5 W",
+    "Laser Etched Wood", 
+    "Note: Components such as trucks, wheels, and bearings not included."
+    ], 
+    "note": "Skateboarding is a dangerous sport and could result in serious injury or even death. Skate within your ability, and always wear a helmet and proper safety gear. Follow traffic and pedestrian safety rules. Use at your own risk."
+  }
+]
